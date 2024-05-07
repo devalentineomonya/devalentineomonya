@@ -1,8 +1,8 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
 <h1 align="center">Hi 👋, I'm Valentine Omonya</h1>
 <h3 align="center">A passionate Software Engineer With Experties in Web And Mobile Development And Passinate with learning Machine Learning.</h3>
-<img alt="Coding" align="right" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" width="100%" height="300px">
-
+<img alt="Coding" align="right" src="https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0" width="100%" height="300px">
+<!-- https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalentineomonya&label=Profile%20views&color=0e75b6&style=flat" alt="devalentineomonya" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devalentineomonya" alt="devalentineomonya" /></a> </p>
