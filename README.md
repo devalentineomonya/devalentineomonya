@@ -17,7 +17,9 @@
 
 - 📫 How to reach me **valomosh254@gmail.com**
 
--Funny fact **You won't know everything 😂**
+- 🤗 Funny fact **You won't know everything 😂**
+
+-Get resume at [https://devalentineomonya.vercel.app](Download Resume) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
