@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
-<h1 align="center">Hi 👋, I'm Valentine Omonya</h1>
+<h1 align="center">Hae 👋, I'm Dev Valentine</h1>
 <h3 align="center">A passionate Software Engineer With Experties in Web And Mobile Development And Passinate with learning Machine Learning.</h3>
 <img alt="Coding" align="right" src="https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0" width="100%" height="300px">
 <!-- https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0 -->
@@ -16,6 +16,8 @@
 - 💬 Ask me about **Python Javascript PHP HTML and CSS**
 
 - 📫 How to reach me **valomosh254@gmail.com**
+
+-Funny fact **You won't know everything 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
