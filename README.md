@@ -19,7 +19,7 @@
 
 - 🤗 Funny fact **You won't know everything 😂**
 
--Get resume at [https://devalentineomonya.vercel.app](Download Resume) 
+-Get resume at [https://devalentineomonya.vercel.app](Download) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
