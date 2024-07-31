@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning *Laravel And Node JS for backend **
+- 🌱 I’m currently learning **Laravel And Node JS for backend**
 
 - 👨‍💻 All of my projects are available at [https://devalprojects.000webhostapp.com](https://devalprojects.000webhostapp.com)
 
