@@ -1,6 +1,9 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
-<h1 align="center">Hae 👋, I'm Dev Valentine</h1>
-<h3 align="center">A passionate Software Engineer With Experties in Web And Mobile Development And Passinate with learning Machine Learning.</h3>
+<h1 align="center">
+  <img src="https://th.bing.com/th/id/R.790017e5dd18a613071b15286b5fdda2?rik=xaZW47sOBZQzQQ&pid=ImgRaw&r=0" alt="Waving hand" width="24" height="24">
+  I'm Dev Valentine
+</h1>
+<h3 align="center">Dedicated Software Engineer with expertise in Web and Mobile Development, continuously exploring the possibilities of Machine Learning.</h3>
 <img alt="Coding" align="right" src="https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0" width="100%" height="300px">
 <!-- https://th.bing.com/th/id/R.3d8ea488ac7be1f83dec39cbf8edc6f3?rik=bTkRknE5arhdaA&pid=ImgRaw&r=0 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalentineomonya&label=Profile%20views&color=0e75b6&style=flat" alt="devalentineomonya" /> </p>
