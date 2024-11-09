@@ -1,6 +1,6 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Software%20Engineer%20for%20Over%201%20Year%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%3B%20With%20Profound%20addiction%20Of%20Finding%20%20%F0%9F%94%8E%20and%20Fixing%20Bugs%27%F0%9F%90%9C%3B%20Loves%20roasting%20other%20techiees%20GitHub%20profiles%F0%9F%98%8E%3B%20Crafting%20Innovative%20Solutions%F0%9F%98%98%3B%20Exploring%20New%20Technologies%F0%9F%92%A5%3B%20Turning%20Ideas%20Into%20Reality%F0%9F%98%89%3B%20Building%20With%20Purpose%F0%9F%8F%97%3B%20Under%20treatment%20for%20burnout%F0%9F%94%A5%F0%9F%94%A5%20and%20imposter%20syndrome%E2%98%A0!&font=Fira%20Code&center=true&width=700&height=45&color=E25822&vCenter=true&pause=1000&size=25" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Software%20Engineer%20for%20Over%201%20Year%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%3B%20With%20Profound%20addiction%20Of%20Finding%20%20%F0%9F%94%8E%20and%20Fixing%20Bugs%27%F0%9F%90%9C%3B%20Loves%20roasting%20other%20techiees%20GitHub%20profiles%F0%9F%98%8E%3B%20Crafting%20Innovative%20Solutions%F0%9F%98%98%3B%20Exploring%20New%20Technologies%20%F0%9F%92%A5%3B%20Turning%20Ideas%20Into%20Reality%F0%9F%98%89%3B%20Building%20With%20Purpose%F0%9F%8F%97%3B%20Suffering%20for%20burnout%20%F0%9F%94%A5%F0%9F%94%A5%20and%20imposter%20syndrome%20%E2%98%A0!&font=Fira%20Code&center=true&width=700&height=45&color=E25822&vCenter=true&pause=1000&size=25" />
 </p>
 
 
