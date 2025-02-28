@@ -27,7 +27,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devalentineomonya&show_icons=true&locale=en&layout=compacta&hide_progress=true" alt="devalentineomonya" height="180px" width="100%"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devalentineomonya&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="devalentineomonya" height="180px" width="100%"  />
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api?username=devalentineomonya&show_icons=true&locale=en" alt="devalentineomonya" height="180px" width="100%"  />
