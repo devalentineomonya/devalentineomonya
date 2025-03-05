@@ -6,7 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalentineomonya&label=Profile%20views&color=0e75b6&style=flat" alt="devalentineomonya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devalentineomonya" alt="devalentineomonya" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=devalentineomonya&theme=onedark&column=6&margin-w=15" />
+  </a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
