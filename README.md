@@ -1,14 +1,15 @@
-[![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)]
+![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A%20Software%20Engineer%20for%20Over%201%20Year%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%3B%20With%20Profound%20addiction%20Of%20Finding%20%20%F0%9F%94%8E%20and%20Fixing%20Bugs%27%F0%9F%90%9C%3B%20Learn%20from%20Techiees%F0%9F%98%8E%3B%20Crafting%20Innovative%20Solutions%F0%9F%98%98%3BAlways%20Exploring%20New%20Technologies%20%F0%9F%92%A5%3B%20And%20Turning%20Ideas%20Into%20Reality%F0%9F%98%89%3BForver%20Building%20With%20Purpose%20%F0%9F%8F%97%3B%20Coding%20infinitly%F0%9F%94%A5%F0%9F%94%A5!&font=Fira%20Code&center=true&width=700&height=45&color=E25822&vCenter=true&pause=1000&size=25" />
+ <img src="https://readme-typing-svg.demolab.com/?lines=A%20Passionate%20Software%20Engineer%20%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB%3BAddicted%20to%20Solving%20Bugs%20%F0%9F%90%9C%20and%20Cracking%20Errors%F0%9F%92%A1%3BAlways%20Building%2C%20Always%20Learning%20%F0%9F%92%AA%3BCrafting%20Ideas%20Into%20Reality%20%F0%9F%92%A8%3BExploring%20New%20Technologies%20%F0%9F%94%A5%3BForever%20Coding%2C%20Forever%20Innovating%20%F0%9F%9A%80!&font=Fira%20Code&center=true&width=700&height=45&color=E25822&vCenter=true&pause=1000&size=22" width="100%"/>
+
 </p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devalentineomonya&label=Profile%20views&color=0e75b6&style=flat" alt="devalentineomonya" /> </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=devalentineomonya&theme=onedark&column=6&margin-w=15" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=devalentineomonya&theme=onedark&column=6&margin-w=15&margin-h=15" />
   </a>
 </p>
 
@@ -32,7 +33,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devalentineomonya&show_icons=true&locale=en&layout=compact&hide_progress=true" alt="devalentineomonya" height="180px" width="100%"  />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=devalentineomonya&show_icons=true&locale=en" alt="devalentineomonya" height="180px" width="100%"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=devalentineomonya&show_icons=true&locale=en" alt="devalentineomonya" height="190px" width="100%"  />
     </td>
   </tr>
   <tr>
