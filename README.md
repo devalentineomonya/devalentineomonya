@@ -5,13 +5,8 @@
 
 ### 💼 Experience
 
-**Director of Dynamic Interpolation**  
-*Open Ambiguity Foundation*  
 - Specialized in recursive regression — both emotional and statistical.  
 - Invented three new buzzwords per quarter. Usage pending.
-
-**Lead Team Lead**  
-*CorpCorp*  
 - Designed dashboards nobody asked for. Pixel-perfect though.
 
 ---
