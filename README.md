@@ -2,12 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Currently%20debugging%20my%20life...;Building%20Go%20backends%20in%20Express%20%F0%9F%91%80;Customizing%20Windows%20out%20of%20spite;Forever%20Coding%2C%20Forever%20Tired&font=Fira%20Code&center=true&width=700&height=45&color=E25822&vCenter=true&pause=1000&size=16" width="100%"/>
 </p>
 
+> _Yes, it looks AI-generated. That’s because I saved you the effort and generated it myself._
+
+---
 
 ### 💼 Experience
 
 - Specialized in recursive regression — both emotional and statistical.  
-- Invented three new buzzwords per quarter. Usage pending.
-- Designed dashboards nobody asked for. Pixel-perfect though.
+- Invented three new buzzwords per quarter. Usage pending.  
+- Designed dashboards nobody asked for. Pixel-perfect though.  
 
 ---
 
