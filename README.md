@@ -21,7 +21,7 @@
 - Verbose Abstraction (esp. cubic regression, occasionally feelings)  
 - Liquification (undefined behavior)  
 - Analytical Analysis (because we *can*, not because we *should*)  
-- Rats. Yes. The actual ones.  
+- How to follow the tech hype and get burnt out.  
 - If “nonsense” hits GitHub Trending, I’m switching to Arch.  
   > *(Already did. Broke my audio drivers.)*
 
