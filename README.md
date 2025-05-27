@@ -18,12 +18,12 @@
 
 - Industrial Confusion & Inconvenience Engineering  
 - `git push --force && hope`  
-- Verbose Abstraction (esp. cubic regression, occasionally feelings)  
-- Liquification (undefined behavior)  
-- Analytical Analysis (because we *can*, not because we *should*)  
+- Verbose Abstraction { esp. cubic regression, occasionally feelings }  
+- Liquification { undefined behavior }  
+- Analytical Analysis { because we *can*, not because we *should* }  
 - How to follow the tech hype and get burnt out.  
 - If “nonsense” hits GitHub Trending, I’m switching to Arch.  
-  > *(Already did. Broke my audio drivers.)*
+  > *{ Already did. Broke my audio drivers. }*
 
 ---
 
@@ -32,5 +32,5 @@
 - I use **Windows** — not because it's the best, but because uninstalling Zune or Copilot breaks the sound drivers.  
 - I use **TypeScript**, mostly to sass JavaScript.  
 - I write **Go backends** in **Express**. Yes, really.  
-- I use **NeonVim** (inside VSCode — it's slower, but I can paste with one key).  
+- I use **NeonVim** { inside VSCode — it's slower, but I can paste with one key }.  
 - My PC has been updating since the Renaissance.
