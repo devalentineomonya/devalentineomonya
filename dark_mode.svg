@@ -761,23 +761,23 @@
 <text x="560.2" y="441.5" fill="#484f58" textLength="335.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve">───────────────────────────────────────────</text>
 <text x="443.2" y="461.0" fill="#ff9e5e" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Repos:</text>
 <text x="490.0" y="461.0" fill="#484f58" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .... </text>
-<text x="536.8" y="461.0" fill="#c9d1d9" textLength="148.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">16 {Contributed: 9}</text>
+<text x="536.8" y="461.0" fill="#c9d1d9" textLength="148.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">34 {Contributed: 7}</text>
 <text x="685.0" y="461.0" fill="#484f58" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> | </text>
 <text x="708.4" y="461.0" fill="#ff9e5e" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Stars:</text>
 <text x="755.2" y="461.0" fill="#484f58" textLength="124.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .............. </text>
-<text x="880.0" y="461.0" fill="#c9d1d9" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">68</text>
+<text x="880.0" y="461.0" fill="#c9d1d9" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">84</text>
 <text x="443.2" y="480.5" fill="#ff9e5e" textLength="109.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Contributions:</text>
 <text x="552.4" y="480.5" fill="#484f58" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ......... </text>
-<text x="638.2" y="480.5" fill="#c9d1d9" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">11,196</text>
+<text x="638.2" y="480.5" fill="#c9d1d9" textLength="46.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">10,494</text>
 <text x="685.0" y="480.5" fill="#484f58" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> | </text>
 <text x="708.4" y="480.5" fill="#ff9e5e" textLength="78.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Followers:</text>
 <text x="786.4" y="480.5" fill="#484f58" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> .......... </text>
 <text x="880.0" y="480.5" fill="#c9d1d9" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">85</text>
 <text x="443.2" y="500.0" fill="#ff9e5e" textLength="117.0" lengthAdjust="spacingAndGlyphs" xml:space="preserve">Lines of Code: </text>
-<text x="560.2" y="500.0" fill="#c9d1d9" textLength="54.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">219,975</text>
-<text x="614.8" y="500.0" fill="#484f58" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ( </text>
-<text x="638.2" y="500.0" fill="#3fb950" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">1,020,995++</text>
-<text x="724.0" y="500.0" fill="#484f58" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
-<text x="739.6" y="500.0" fill="#f85149" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">801,020--</text>
-<text x="809.8" y="500.0" fill="#484f58" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> )</text>
+<text x="560.2" y="500.0" fill="#c9d1d9" textLength="70.2" lengthAdjust="spacingAndGlyphs" xml:space="preserve">5,657,391</text>
+<text x="630.4" y="500.0" fill="#484f58" textLength="23.4" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> ( </text>
+<text x="653.8" y="500.0" fill="#3fb950" textLength="93.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">13,193,404++</text>
+<text x="747.4" y="500.0" fill="#484f58" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve">, </text>
+<text x="763.0" y="500.0" fill="#f85149" textLength="85.8" lengthAdjust="spacingAndGlyphs" xml:space="preserve">7,536,013--</text>
+<text x="848.8" y="500.0" fill="#484f58" textLength="15.6" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> )</text>
 </svg>
